@@ -19,5 +19,11 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-The dataset can be downloaded from [https://drive.google.com/file/d/1d3hxhiRtffkySIW94B1hY1MGZy6hbz_O/view?usp=sharing].
+The dataset can be downloaded from https://drive.google.com/file/d/1d3hxhiRtffkySIW94B1hY1MGZy6hbz_O/view?usp=sharing.
+
+The link consists of a dataset file used in the preprocessing and modeling stages and ko.bin, a pre-trained Korean Word2Vec model.
+
+The file can be saved and used in the root folder.
+
+However, the data path in the jupyter file needs to be modified.
 
