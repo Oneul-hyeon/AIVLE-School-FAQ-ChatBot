@@ -19,6 +19,5 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-Dataset is attached together, so you can use it immediately after installing the virtual environment.
+The dataset can be downloaded from [https://drive.google.com/file/d/1d3hxhiRtffkySIW94B1hY1MGZy6hbz_O/view?usp=sharing].
 
-However, the data path in the jupyter file needs to be modified.
